@@ -1,2 +1,2 @@
 # RotationMatrix
-Eulerian Angles，Quaterions and Rotation Matrixs
+Eulerian Angles，Quaterions and Rotation Matrices
